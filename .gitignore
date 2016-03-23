@@ -6,6 +6,7 @@
 [Bb]uild
 [Ll]ibrary/
 sysinfo.txt
+Editor.meta
 *.stackdump
  
 # ===================================== #
